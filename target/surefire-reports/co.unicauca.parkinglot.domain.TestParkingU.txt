@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: co.unicauca.parkinglot.domain.TestParkingU
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.44 s <<< FAILURE! - in co.unicauca.parkinglot.domain.TestParkingU
+TruckTest  Time elapsed: 0.032 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <45700> but was: <55000>
+	at co.unicauca.parkinglot.domain.TestParkingU.TruckTest(TestParkingU.java:103)
+
